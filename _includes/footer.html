@@ -23,6 +23,16 @@
             </a>
           </li>
           {% endif %}
+          {% if site.author.steam and site.footer-links-active.steam %}
+          <li>
+            <a href="https://steamcommunity.com/groups/csgobetprofits/{{ site.author.steam }}" title="Steam Group">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-steam-square"></i> fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
 		  {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
