@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://csgobettingprofits.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: CSGOBETTINGPROFITS
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: CSGO BETTING ADVICE AND PREDICTIONS
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,6 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
 
@@ -37,12 +36,13 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
+  email: "leotluk@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
+  steam: https://steamcommunity.com/groups/csgobetprofits
  
 # Select which links to show in the footer
 footer-links-active:
@@ -54,9 +54,10 @@ footer-links-active:
   linkedin: false
   stackoverflow: false
   steam: true
+  
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "EASY SKINS"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
