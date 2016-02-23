@@ -27,10 +27,9 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Predictions: "predictions"
+  Predictions: ""
   About Me: "aboutme"
-  Free Skins: "freeskins"
+ 
   
 # --- Footer options --- #
 
