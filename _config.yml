@@ -27,7 +27,8 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Predictions: ""
+ Home: ""
+  Predictions: "predictions"
   About Me: "aboutme"
  
   
